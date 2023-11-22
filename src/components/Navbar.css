@@ -1,0 +1,21 @@
+.navbar-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(95, 135, 168);
+    padding: 0 100px;
+    height: 70px;
+    box-shadow: 2px 2px 2px 2px rgb(171, 227, 245);
+    z-index: 99;
+    
+}
+.nav-logo{
+    width: 60px;
+}
+.right{
+    margin-right: 10px;
+    font-size: 20px;
+    font-family:cursive;
+    cursor: pointer;
+    font-weight: bold;
+}
